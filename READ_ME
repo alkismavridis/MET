@@ -1,0 +1,22 @@
+MET version 1.0
+
+1. BEFORE RUNNING
+	To run you must have installed JRE version 1.7 or higher.
+
+	To install in Linux tap in terminal:
+	 sudo apt-get install default-jre
+
+	for Windows visit the site:
+	 http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html
+
+2. TO RUN
+	Just double click the correct file in this folder, run_linux, or run_windows. Feel free to rename theese two files.
+	In Linux, first time right-click it, go to properties and select "Allow to be excecuted as program".
+	
+	The folder named "class" must be next to the run_... files.
+	Inside the class folder there must be two Files: MET.class and data file.
+	DO NOT MOVE OR RENAME THESE TWO FILES.
+	
+	Also you will also get the source code of the program, named MET.java.
+	
+	HAVE FUN...
